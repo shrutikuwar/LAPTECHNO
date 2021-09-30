@@ -83,3 +83,14 @@
     "processor": " AMD Ryzen 3 3250U   ",
     "link": "https://www.amazon.in/HP-3-3250-Laptop-Windows-15s-gr0012AU/dp/B08T6THSMQ/ref=sr_1_5?dchild=1&keywords=laptops&qid=1633024436&sr=8-5"
   }
+  {
+    "id": "8'',  
+    "name": "Dell Inspiron 14",  
+    "size": "14.0-inch ",  
+    "ssd": "512GB",  
+    "ram":"8GB", 
+    "colour": "shadow black",
+    "processor": " 10th Gen intel core i5   ",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8?gacd=10415953-9018-5761040-285934065-0&dgc=PLA&gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkhcvHarNxPaAH4GiBKt1AAeaC7Akq5v0aw8S-8UmwmH2IxvL6YwqSZAaAnzsEALw_wcB&gclsrc=aw.ds&nclid=YVpTBvvv6ftQhi3Il1sw_lODoZJ6dS1lO8C-mWphowZ1mekqrMJXaqTO6KGcozHY"
+  }
+
