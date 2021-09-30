@@ -1,4 +1,4 @@
-﻿{
+{
     "id": "1',
     "name": "Apple Macbook Air ",
     "size": "13.3-inch",    
@@ -73,8 +73,20 @@
     "colour": "shadow black",
     "processor": " 10th Gen intel core i5"
 }
+
 {
     "id": "7",  
+    "name": "Hp 15 ",  
+    "size": "15.6-inch",  
+    "ssd": "512GB",  
+    "ram":"8GB", 
+    "colour": "black",
+    "processor": " 11th Gen Intel Core i5-1135G7   ",
+    "link": "https://www.amazon.in/HP-Processor-Windows-Graphics-15s-dr3500TX/dp/B0928T6QM3/ref=sr_1_2_sspa?dchild=1&keywords=laptops&qid=1633024436&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZWVRLSk5JT1hEUUgmZW5jcnlwdGVkSWQ9QTAwNzUwNTcyMzVHN1NCQlBETkg5JmVuY3J5cHRlZEFkSWQ9QTAzMTE5NjkxVldUSUNQNkVFVzRNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+}
+
+{
+    "id": "8",  
     "name": "HP 15 ",  
     "size": "15.6-inch",  
     "ssd": "256gb",  
@@ -93,4 +105,5 @@
     "processor": " 10th Gen intel core i5   ",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8?gacd=10415953-9018-5761040-285934065-0&dgc=PLA&gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkhcvHarNxPaAH4GiBKt1AAeaC7Akq5v0aw8S-8UmwmH2IxvL6YwqSZAaAnzsEALw_wcB&gclsrc=aw.ds&nclid=YVpTBvvv6ftQhi3Il1sw_lODoZJ6dS1lO8C-mWphowZ1mekqrMJXaqTO6KGcozHY"
   }
+
 
