@@ -115,4 +115,14 @@
     "processor": "DY2501TU",
     "link": "https://dl.flipkart.com/s/ij8NjlNNNN"
    }
+    {
+    "id": "10", 
+    "name": "HP 14", 
+    "size": "14 inch",  
+    "ssd": "512gb",  
+    "ram":"16GB", 
+    "colour": "silver",
+    "processor": "dv0054TU",
+    "link": "https://www.flipkart.com/hp-pavilion-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-home-14-dv0054tu-thin-light-laptop/p/itm36b7d040b7f87?pid=COMGY8RDNJX8FWGH&lid=LSTCOMGY8RDNJX8FWGHNMQSO2&marketplace=FLIPKART&q=hp+pavilion+14&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=21884d6e-0136-4655-a2a6-2dfe72e504c1.COMGY8RDNJX8FWGH.SEARCH&ppt=hp&ppn=homepage&ssid=tsahszak6o0000001633078408276&qH=781abb0fb24f0b29"
+   }
 
