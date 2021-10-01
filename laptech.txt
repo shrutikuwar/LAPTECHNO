@@ -124,13 +124,8 @@
     "colour": "silver",
     "processor": " 11th Gen intel core i5-11300H",
     "link": "https://www.amazon.in/dp/B098XM2SJ4/ref=cm_sw_r_wa_awdb_imm_2XBW90SHRHC9D8K2SEYW?_encoding=UTF8&psc=1"
-  }
-
-]
-   
-
-
-    {
+  },
+  {
     "id": "12", 
     "name": "HP 14", 
     "size": "14 inch",  
@@ -140,5 +135,18 @@
     "processor": "dv0054TU",
     "link": "https://www.flipkart.com/hp-pavilion-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-home-14-dv0054tu-thin-light-laptop/p/itm36b7d040b7f87?pid=COMGY8RDNJX8FWGH&lid=LSTCOMGY8RDNJX8FWGHNMQSO2&marketplace=FLIPKART&q=hp+pavilion+14&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=21884d6e-0136-4655-a2a6-2dfe72e504c1.COMGY8RDNJX8FWGH.SEARCH&ppt=hp&ppn=homepage&ssid=tsahszak6o0000001633078408276&qH=781abb0fb24f0b29"
    }
+
+    {
+    "id": "13", 
+    "name": "HP 340s g7 Notebook PC", 
+    "size": "14 inch",  
+    "ssd": "512gb",  
+    "ram":"8GB", 
+    "colour": "silver",
+    "processor": "10th Generation Intel® Core™ i5 processor",
+    "link": "https://www.hp.com/in-en/shop/hp-340s-g7-notebook-pc-9ej44pa.html"
+   }
+   
+
 
 
