@@ -96,7 +96,7 @@
     "link": "https://www.amazon.in/HP-3-3250-Laptop-Windows-15s-gr0012AU/dp/B08T6THSMQ/ref=sr_1_5?dchild=1&keywords=laptops&qid=1633024436&sr=8-5"
   }
   {
-    "id": "8'',  
+    "id": "9'',  
     "name": "Dell Inspiron 14",  
     "size": "14.0-inch ",  
     "ssd": "512GB",  
@@ -106,7 +106,7 @@
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8?gacd=10415953-9018-5761040-285934065-0&dgc=PLA&gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkhcvHarNxPaAH4GiBKt1AAeaC7Akq5v0aw8S-8UmwmH2IxvL6YwqSZAaAnzsEALw_wcB&gclsrc=aw.ds&nclid=YVpTBvvv6ftQhi3Il1sw_lODoZJ6dS1lO8C-mWphowZ1mekqrMJXaqTO6KGcozHY"
   },
   {
-    "id": "9", 
+    "id": "10", 
     "name": "HP 14s", 
     "size": "14 inch",  
     "ssd": "256gb",  
@@ -116,7 +116,7 @@
     "link": "https://dl.flipkart.com/s/ij8NjlNNNN"
    },
    {
-    "id": "10",  
+    "id": "11",  
     "name": " Mi notebook pro I5",  
     "size": "14-inch",  
     "ssd": "512GB",  
@@ -128,4 +128,17 @@
 
 ]
    
+
+
+    {
+    "id": "12", 
+    "name": "HP 14", 
+    "size": "14 inch",  
+    "ssd": "512gb",  
+    "ram":"16GB", 
+    "colour": "silver",
+    "processor": "dv0054TU",
+    "link": "https://www.flipkart.com/hp-pavilion-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-home-14-dv0054tu-thin-light-laptop/p/itm36b7d040b7f87?pid=COMGY8RDNJX8FWGH&lid=LSTCOMGY8RDNJX8FWGHNMQSO2&marketplace=FLIPKART&q=hp+pavilion+14&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=21884d6e-0136-4655-a2a6-2dfe72e504c1.COMGY8RDNJX8FWGH.SEARCH&ppt=hp&ppn=homepage&ssid=tsahszak6o0000001633078408276&qH=781abb0fb24f0b29"
+   }
+
 
