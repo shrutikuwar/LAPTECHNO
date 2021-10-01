@@ -147,6 +147,18 @@
     "link": "https://www.hp.com/in-en/shop/hp-340s-g7-notebook-pc-9ej44pa.html"
    }
    
+  {
+    "id": "14", 
+    "name": "Dell Inspiron 3501", 
+    "size": "15.6 inch",  
+    "ssd": "256gb",  
+    "ram":"8GB", 
+    "colour": "Soft mint",
+    "processor": "11th Generation Intel® Core™ i5 processor",
+    "link": "https://www.amazon.in/dp/B097C2JJ1R/ref=cm_sw_r_wa_apan_glt_fabc_X0X00KBE4SD8HH05PW52"
+   }
+   ]
+   
 
 
 
