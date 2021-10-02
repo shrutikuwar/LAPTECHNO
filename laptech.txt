@@ -169,7 +169,16 @@
     "processor": "11th Gen Intel Core i3-1115G4",
     "link": "https://www.amazon.in/dp/B0999BF9ZX/ref=sspa_dk_detail_4?pd_rd_i=B0999BF9ZX&pd_rd_w=lRV5O&pf_rd_p=4e9225d2-7473-4eb0-95d5-670190275218&pd_rd_wg=Jxw8v&pf_rd_r=5TM544AZFSVAXXCE8ACV&pd_rd_r=5885b074-e129-474f-b844-79ccdff83dae&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFNWE1WWVNOWUhXV1YmZW5jcnlwdGVkSWQ9QTEwMjM4ODgyVEtVWTdORTkwSzdTJmVuY3J5cHRlZEFkSWQ9QTAzOTY1MTMyQTdOUk5OME04RVhXJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1"
    }   
-
+  {
+    "id": "17", 
+    "name": "asus tuf", 
+    "size": "15.6 inch",  
+    "ssd": "512 GB",  
+    "ram":"8GB", 
+    "colour": "gray",
+    "processor": "10th Gen Intel Core i5",
+    "link": "https://www.amazon.in/ASUS-15-6-inch-i5-10300H-Graphics-FX566LI-HN272T/dp/B098P62W63/ref=sr_1_1?dchild=1&hvadid=82119984999302&hvbmt=be&hvdev=c&hvqmt=e&keywords=tuf+asus&qid=1633178668&sr=8-1"
+   }   
 
 
 
