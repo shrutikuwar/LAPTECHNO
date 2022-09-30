@@ -179,6 +179,17 @@
     "processor": "10th Gen Intel Core i5",
     "link": "https://www.amazon.in/ASUS-15-6-inch-i5-10300H-Graphics-FX566LI-HN272T/dp/B098P62W63/ref=sr_1_1?dchild=1&hvadid=82119984999302&hvbmt=be&hvdev=c&hvqmt=e&keywords=tuf+asus&qid=1633178668&sr=8-1"
    }   
+ {
+    "id": "18", 
+    "name": "Lenovo Ideapad 3", 
+    "size": "15.6 inch",  
+    "ssd": "512 GB",  
+    "ram":"8GB", 
+    "colour": "Arctic gray",
+    "processor": "10th Gen Intel Core i5",
+    "link": "https://www.amazon.in/Lenovo-Ideapad-Keyboard-Warranty-82KU017KIN/dp/B09MM58Y7Q/ref=asc_df_B09MM58Y7Q/?tag=googleshopmob-21&linkCode=df0&hvadid=544421994919&hvpos=&hvnetw=g&hvrand=4336897000142759088&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1539885107451&psc=1"
+   }   
+
 
 
 
